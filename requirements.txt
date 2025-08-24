@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+pymongo==4.8.0
+python-dotenv==1.0.1
+pdf2image
+Pillow
+openai==0.28.0
+requests
+poppler-utils
+python-multipart
